@@ -1,0 +1,282 @@
+count: 47 binarySearch cost time : 0
+num 43, find 43 
+count: 47 linearSearch cost time : 0
+num 43, find 43 
+count: 48 binarySearch cost time : 1
+num 37, find 37 
+count: 48 linearSearch cost time : 0
+num 37, find 37 
+count: 49 binarySearch cost time : 1
+num 46, find 46 
+count: 49 linearSearch cost time : 1
+num 46, find 46 
+count: 50 binarySearch cost time : 1
+num 26, find 26 
+count: 50 linearSearch cost time : 0
+num 26, find 26 
+count: 51 binarySearch cost time : 0
+num 42, find 42 
+count: 51 linearSearch cost time : 1
+num 42, find 42 
+count: 53 binarySearch cost time : 0
+num 26, find 26 
+count: 53 linearSearch cost time : 0
+num 26, find 26 
+count: 54 binarySearch cost time : 0
+num 8, find 8 
+count: 54 linearSearch cost time : 0
+num 8, find 8 
+count: 55 binarySearch cost time : 0
+num 52, find 52 
+count: 55 linearSearch cost time : 0
+num 52, find 52 
+count: 56 binarySearch cost time : 0
+num 37, find 37 
+count: 56 linearSearch cost time : 0
+num 37, find 37 
+count: 57 binarySearch cost time : 0
+num 17, find 17 
+count: 57 linearSearch cost time : 1
+num 17, find 17 
+count: 58 binarySearch cost time : 0
+num 20, find 20 
+count: 58 linearSearch cost time : 0
+num 20, find 20 
+count: 59 binarySearch cost time : 1
+num 6, find 6 
+count: 59 linearSearch cost time : 0
+num 6, find 6 
+count: 60 binarySearch cost time : 0
+num 10, find 10 
+count: 60 linearSearch cost time : 0
+num 10, find 10 
+count: 61 binarySearch cost time : 0
+num 9, find 9 
+count: 61 linearSearch cost time : 0
+num 9, find 9 
+count: 62 binarySearch cost time : 0
+num 14, find 14 
+count: 62 linearSearch cost time : 0
+num 14, find 14 
+count: 63 binarySearch cost time : 0
+num 31, find 31 
+count: 63 linearSearch cost time : 0
+num 31, find 31 
+count: 64 binarySearch cost time : 0
+num 22, find 22 
+count: 64 linearSearch cost time : 0
+num 22, find 22 
+count: 65 binarySearch cost time : 1
+num 53, find 53 
+count: 65 linearSearch cost time : 0
+num 53, find 53 
+count: 66 binarySearch cost time : 0
+num 9, find 9 
+count: 66 linearSearch cost time : 0
+num 9, find 9 
+count: 67 binarySearch cost time : 0
+num 2, find 2 
+count: 67 linearSearch cost time : 0
+num 2, find 2 
+count: 68 binarySearch cost time : 1
+num 18, find 18 
+count: 68 linearSearch cost time : 0
+
+
+
+
+count: 94 binarySearch cost time : 0
+num 32, find 32 
+count: 94 linearSearch cost time : 0
+num 32, find 32 
+count: 95 binarySearch cost time : 0
+num 82, find 82 
+count: 95 linearSearch cost time : 1
+num 82, find 82 
+count: 96 binarySearch cost time : 0
+num 29, find 29 
+count: 96 linearSearch cost time : 0
+num 29, find 29 
+count: 97 binarySearch cost time : 0
+num 44, find 44 
+count: 97 linearSearch cost time : 1
+num 44, find 44 
+count: 98 binarySearch cost time : 1
+num 25, find 25 
+count: 98 linearSearch cost time : 1
+num 25, find 25 
+count: 99 binarySearch cost time : 0
+
+
+count: 1007 binarySearch cost time : 0
+num 415, find 415 
+count: 1007 linearSearch cost time : 1
+num 415, find 415 
+count: 1008 binarySearch cost time : 0
+num 182, find 182 
+count: 1008 linearSearch cost time : 1
+num 182, find 182 
+count: 1009 binarySearch cost time : 0
+num 542, find 542 
+count: 1009 linearSearch cost time : 2
+num 542, find 542 
+count: 1010 binarySearch cost time : 1
+num 215, find 215 
+count: 1010 linearSearch cost time : 2
+num 215, find 215 
+count: 1011 binarySearch cost time : 0
+num 1001, find 1001 
+count: 1011 linearSearch cost time : 3
+num 1001, find 1001 
+count: 1012 binarySearch cost time : 0
+num 86, find 86 
+count: 1012 linearSearch cost time : 0
+num 86, find 86 
+
+
+count: 2003 binarySearch cost time : 0
+num 1320, find 1320 
+count: 2003 linearSearch cost time : 4
+num 1320, find 1320 
+count: 2004 binarySearch cost time : 0
+num 615, find 615 
+count: 2004 linearSearch cost time : 2
+num 615, find 615 
+count: 2005 binarySearch cost time : 0
+num 1076, find 1077 
+count: 2005 linearSearch cost time : 4
+num 1076, find 1076 
+count: 2006 binarySearch cost time : 0
+num 1201, find 1201 
+count: 2006 linearSearch cost time : 3
+num 1201, find 1201 
+count: 2007 binarySearch cost time : 1
+num 1854, find 1853 
+count: 2007 linearSearch cost time : 6
+num 1854, find 1853 
+count: 2008 binarySearch cost time : 1
+num 1255, find 1255 
+count: 2008 linearSearch cost time : 4
+num 1255, find 1255 
+count: 2009 binarySearch cost time : 0
+num 793, find 793 
+count: 2009 linearSearch cost time : 2
+
+
+count: 2076 binarySearch cost time : 1
+num 1388, find 1388 
+count: 2076 linearSearch cost time : 7
+num 1388, find 1388 
+count: 2077 binarySearch cost time : 1
+num 833, find 834 
+count: 2077 linearSearch cost time : 5
+num 833, find 833 
+count: 2078 binarySearch cost time : 0
+num 42, find 42 
+count: 2078 linearSearch cost time : 1
+num 42, find 42 
+count: 2079 binarySearch cost time : 1
+num 687, find 687 
+count: 2079 linearSearch cost time : 3
+num 687, find 687 
+count: 2080 binarySearch cost time : 0
+num 269, find 269 
+count: 2080 linearSearch cost time : 1
+num 269, find 269 
+count: 2081 binarySearch cost time : 1
+num 1052, find 1052 
+count: 2081 linearSearch cost time : 6
+num 1052, find 1050 
+count: 2082 binarySearch cost time : 0
+num 1143, find 1141 
+count: 2082 linearSearch cost time : 5
+num 1143, find 1141 
+count: 2083 binarySearch cost time : 1
+num 48, find 48 
+count: 2083 linearSearch cost time : 0
+num 48, find 48 
+count: 2084 binarySearch cost time : 0
+num 1742, find 1742 
+count: 2084 linearSearch cost time : 9
+num 1742, find 1741 
+count: 2085 binarySearch cost time : 0
+num 1968, find 1968 
+count: 2085 linearSearch cost time : 10
+num 1968, find 1968 
+
+
+
+count: 5000 binarySearch cost time : 0
+num 4133, find 4134 
+count: 5000 linearSearch cost time : 13
+num 4133, find 4132 
+count: 5001 binarySearch cost time : 0
+num 3665, find 3666 
+count: 5001 linearSearch cost time : 10
+num 3665, find 3665 
+count: 5002 binarySearch cost time : 0
+num 2357, find 2357 
+count: 5002 linearSearch cost time : 7
+num 2357, find 2356 
+count: 5003 binarySearch cost time : 0
+num 4912, find 4914 
+count: 5003 linearSearch cost time : 14
+num 4912, find 4910 
+count: 5004 binarySearch cost time : 0
+num 2570, find 2569 
+count: 5004 linearSearch cost time : 7
+num 2570, find 2569 
+count: 5005 binarySearch cost time : 0
+num 3166, find 3166 
+count: 5005 linearSearch cost time : 16
+num 3166, find 3164 
+count: 5006 binarySearch cost time : 1
+num 1889, find 1887 
+count: 5006 linearSearch cost time : 10
+num 1889, find 1887 
+count: 5007 binarySearch cost time : 0
+num 4360, find 4358 
+count: 5007 linearSearch cost time : 49
+
+
+count: 5160 binarySearch cost time : 0
+num 2906, find 2906 
+count: 5160 linearSearch cost time : 15
+num 2906, find 2905 
+count: 5161 binarySearch cost time : 1
+num 396, find 396 
+count: 5161 linearSearch cost time : 2
+num 396, find 395 
+count: 5162 binarySearch cost time : 0
+num 5054, find 5052 
+count: 5162 linearSearch cost time : 27
+num 5054, find 5052 
+count: 5163 binarySearch cost time : 0
+num 4275, find 4276 
+count: 5163 linearSearch cost time : 22
+num 4275, find 4275 
+count: 5164 binarySearch cost time : 1
+num 3032, find 3031 
+count: 5164 linearSearch cost time : 16
+num 3032, find 3031 
+count: 5165 binarySearch cost time : 0
+num 185, find 185 
+count: 5165 linearSearch cost time : 1
+num 185, find 185 
+count: 5166 binarySearch cost time : 0
+num 621, find 618 
+count: 5166 linearSearch cost time : 4
+num 621, find 618 
+count: 5167 binarySearch cost time : 1
+num 3262, find 3262 
+count: 5167 linearSearch cost time : 17
+num 3262, find 3262 
+
+
+数量级较小（几十几百）时，二分法查找和线性查找，线性查找平均时间更少。
+数量级增大（超过千）时，二分法查找优于线性查找，数量级越大，优势越明显。
+二分法查找为O(logn)  线性查找为O(n)
+
+
+线性查找适用于小数组中查找，对于大型的数组很低效了
+对于已经排好序的数组，二分查找是非常高校的一种方法。
